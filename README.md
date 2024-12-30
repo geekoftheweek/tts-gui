@@ -3,6 +3,8 @@
 A simple GUI application for quickly generating A.I. voiceovers using the XTTSv2
 model from Coqui.
 
+![TTS GUI Screenshot](https://github.com/geekoftheweek/tts-gui/blob/main/assets/screenshot.png?raw=true)
+
 ## Running the app
 
 **Note:** Immediately after starting up, the application will download nearly
