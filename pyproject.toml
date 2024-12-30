@@ -1,0 +1,10 @@
+[project]
+name = "tts-gui"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit>=1.39.0",
+    "tts>=0.22.0",
+]
